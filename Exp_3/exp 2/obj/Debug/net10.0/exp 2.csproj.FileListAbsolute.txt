@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\bin\Debug\net10.0\exp 2.exe
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\bin\Debug\net10.0\exp 2.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\bin\Debug\net10.0\exp 2.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\bin\Debug\net10.0\exp 2.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\bin\Debug\net10.0\exp 2.pdb
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\refint\exp 2.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.pdb
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\exp 2.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 2\obj\Debug\net10.0\ref\exp 2.dll
