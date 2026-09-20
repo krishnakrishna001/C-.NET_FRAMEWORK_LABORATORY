@@ -1,0 +1,23 @@
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\exp 10.exe
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\exp 10.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\exp 10.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\exp 10.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\exp 10.pdb
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.csproj.Up2Date
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\refint\exp 10.dll
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.pdb
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\exp 10.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 10\obj\Debug\net10.0\ref\exp 10.dll
