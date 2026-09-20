@@ -1,0 +1,5 @@
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 8\obj\Debug\net10.0\exp 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 8\obj\Debug\net10.0\exp 8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 8\obj\Debug\net10.0\exp 8.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 8\obj\Debug\net10.0\exp 8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C-and-.Net-Framework\exp 8\obj\Debug\net10.0\exp 8.sourcelink.json
